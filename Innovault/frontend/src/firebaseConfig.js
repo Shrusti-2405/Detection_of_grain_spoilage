@@ -3,7 +3,7 @@ import { initializeApp } from "firebase/app";
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCpqQgCgHU6uf-OZhqZtFQA_eW1z4rXYI8",
+  apiKey: FIREBASE_API,
   authDomain: "real-time-monitoring-92f83.firebaseapp.com",
   databaseURL: "https://real-time-monitoring-92f83-default-rtdb.asia-southeast1.firebasedatabase.app",
   projectId: "real-time-monitoring-92f83",
